@@ -5,7 +5,7 @@ This repository contains my work for Module 8. The assignment focuses on using P
 ## Files Included
 
 - `module08-assignment.py`
-
+- `hello`
 ## What I Practiced
 
 In this assignment, I practiced creating and using dictionaries, nested dictionaries, dictionary methods, loops, conditionals, functions, and basic aggregation. I also practiced calculating project costs, summarizing customer budgets, validating customer data, and organizing business information in a structured way.
